@@ -5,7 +5,7 @@
 
 📍 Rajshahi / Dhaka, Bangladesh  
 📧 [hasin.doict@gmail.com](mailto:hasin.doict@gmail.com) | [hasin.cse@gmail.com](mailto:hasin.cse@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com) | [Google Scholar](#) | [ResearchGate](#)
+🌐 [LinkedIn](https://www.linkedin.com) 
 
 ---
 
