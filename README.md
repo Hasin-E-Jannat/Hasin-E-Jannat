@@ -118,4 +118,3 @@ I would be glad to hear from you if you work on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="150"/>
 </p>
 
-<p align="center"><i>"Making AI work for Bangladesh, one dataset at a time."</i></p>
