@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hasin 👋</h1>
 
 <p align="center">
-  <b>Researcher · AI/NLP Engineer · Government ICT, Bangladesh</b><br/>
+  <b>ML/DL Researcher · Government ICT, Bangladesh</b><br/>
   Feature Selection &nbsp;|&nbsp; Hyperspectral Imaging &nbsp;|&nbsp; Intrusion Detection &nbsp;|&nbsp; Low-Resource Bengali NLP &nbsp;|&nbsp; RAG
 </p>
 
