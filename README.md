@@ -53,7 +53,7 @@ A line of work asking one question: *when PCA alone is not enough, can mutual in
 - **Retrieval:** FAISS-based RAG pipeline for grounded document generation
 - **Generation:** locally hosted LLM (Ollama, Llama 3.2 3B), so sensitive documents stay on-premise
 - **Stack:** FastAPI backend, React frontend
-- 🗂️ Code: [`Lipi-AI`](https://github.com/YOUR_USERNAME/Lipi-AI)
+- 🗂️ Code: [`Lipi-AI`](https://github.com/Hasin-E-Jannat/BanglaGovDocApp)
 
 ---
 
@@ -79,7 +79,7 @@ A line of work asking one question: *when PCA alone is not enough, can mutual in
 ### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-Web scraping for corpus building · Model evaluation (OA / AA / Kappa, Accuracy, Macro-F1) · Reproducible experiments · scientific writing
+Web scraping for corpus building · Model evaluation (OA / AA / Kappa, Accuracy, Macro-F1) · Reproducible experiments · Scientific writing
 
 ---
 
@@ -87,9 +87,9 @@ Web scraping for corpus building · Model evaluation (OA / AA / Kappa, Accuracy,
 
 | Project | Description | Stack |
 |---|---|---|
-| [**PCA-MI-ResDenseNet**](https://github.com/YOUR_USERNAME/PCA-MI-ResDenseNet) | Hyperspectral image classification framework benchmarked on Indian Pines | Python, PyTorch |
-| [**Lipi AI / BanglaGovBot**](https://github.com/YOUR_USERNAME/Lipi-AI) | Bengali government document classification, retrieval, and generation | FastAPI, React, FAISS, Ollama |
-| [**BanglaGovDoc-4275**](https://github.com/YOUR_USERNAME/BanglaGovDoc-4275) | Bengali government document dataset for classification | Python, HF Datasets |
+| [**PCA-MI-ResDenseNet**](https://github.com/Hasin-E-Jannat/Hybrid-Feature-selection-framework) | Hyperspectral image classification framework benchmarked on Indian Pines | Python, PyTorch |
+| [**Lipi AI / BanglaGovBot**](https://github.com/Hasin-E-Jannat/BanglaGovDocApp) | Bengali government document classification, retrieval, and generation | FastAPI, React, FAISS, Ollama |
+| [**BanglaGovDoc-4275**]() | Bengali government document dataset for classification | Python, HF Datasets |
 
 ---
 
